@@ -4,4 +4,4 @@
 
 while True:
     salary = 35000
-    expenses = 
+    
