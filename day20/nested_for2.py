@@ -19,4 +19,4 @@ for i in range(0,week):
         else:
             if(toothpaste==1 and toothbrush==1):
                 print("Go and brush your teeth")
-                breakC
+                break
